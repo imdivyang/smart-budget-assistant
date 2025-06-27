@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tx001",
+    "date": "2025-05-01",
+    "description": "Starbucks",
+    "amount": 5.5,
+    "category": "Food & Drinks"
+  },
+  {
+    "id": "tx002",
+    "date": "2025-05-01",
+    "description": "Uber",
+    "amount": 12.0,
+    "category": "Transport"
+  },
+  {
+    "id": "tx003",
+    "date": "2025-05-02",
+    "description": "Netflix",
+    "amount": 15.0,
+    "category": "Entertainment"
+  },
+  {
+    "id": "tx004",
+    "date": "2025-05-03",
+    "description": "Grocery Store",
+    "amount": 45.25,
+    "category": "Food & Drinks"
+  },
+  {
+    "id": "tx005",
+    "date": "2025-05-04",
+    "description": "Bus Ticket",
+    "amount": 2.5,
+    "category": "Transport"
+  }
+]
