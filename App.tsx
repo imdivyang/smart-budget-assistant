@@ -169,7 +169,7 @@ const styles = StyleSheet.create({
   overTotalInfo: {
     fontSize: 16,
     fontWeight: "bold",
-    textAlign: "right",
     marginTop: 20,
+    textAlign: "right",
   },
 });
